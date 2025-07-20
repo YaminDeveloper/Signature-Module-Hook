@@ -2,5 +2,5 @@
   "latestVersionCode": 2,
   "latestVersionName": "2.0",
   "updateUrl": "https://t.me/c/1509743271/461",
-  "changelog": "• Added dynamic update dialog.\n• Improved UI for light and dark modes.\n• Fixed minor bugs."
+  "changelog": "• Added full support for modern Android (12-15).\n• Added 'Report a Bug' button for direct support.\n• Added in-app update checker.\n• Improved UI for Light and Dark modes.\n• Fixed all build errors and other minor bugs."
 }
