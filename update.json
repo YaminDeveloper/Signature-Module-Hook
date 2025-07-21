@@ -2,5 +2,5 @@
   "latestVersionCode": 2,
   "latestVersionName": "2.0",
   "updateUrl": "https://t.me/c/1509743271/461",
-  "changelog": "• Added full support for modern Android (12-15).\n• Added 'Report a Bug' button for direct support.\n• Added in-app update checker.\n• Improved UI for Light and Dark modes.\n• Fixed all build errors and other minor bugs."
+  "changelog": "• Storage Permission Fix.\n• Select apps directly from an installed list.\n• Added a new 'How to Use' guide inside the app.\n• Added an in-app update checker.\n• Added 'Report Bug' button for direct support.\n• Improved UI for both Light and Dark modes.\n• Support for modern Android versions (12-15)."
 }
