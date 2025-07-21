@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "2.0",
-  "updateUrl": "https://t.me/c/1509743271/461",
+  "latestVersionCode": 3,
+  "latestVersionName": "3.0",
+  "updateUrl": "https://t.me/+Mb26CMSmXkc5NjA1",
   "changelog": "• Storage Permission Fix.\n• Select apps directly from an installed list.\n• Added a new 'How to Use' guide inside the app.\n• Added an in-app update checker.\n• Added 'Report Bug' button for direct support.\n• Improved UI for both Light and Dark modes.\n• Support for modern Android versions (12-15)."
 }
