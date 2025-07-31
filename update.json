@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 3,
-  "latestVersionName": "3.0",
-  "updateUrl": "https://t.me/+Mb26CMSmXkc5NjA1",
-  "changelog": "• Storage Permission Fix.\n• Select apps directly from an installed list.\n• Added a new 'How to Use' guide inside the app.\n• Added an in-app update checker.\n• Added 'Report Bug' button for direct support.\n• Improved UI for both Light and Dark modes.\n• Support for modern Android versions (12-15)."
+  "latestVersionCode": 4,
+  "latestVersionName": "4.0",
+  "updateUrl": "https://t.me/+Yu2tSlqdKNszZjQ1",
+  "changelog": "• Critical Fix: Fixed a major crash on app startup on modern Android versions.\n• Hooking Engine: Improved stability and effectiveness of the hooking engine for Android 14 & 15.\n• Update Checker: The update checker is now more reliable and supports offline caching.\n• User Guide: Updated the 'How to Use' guide with clearer instructions.\n• General: Overall stability improvements and minor bug fixes."
 }
